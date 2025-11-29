@@ -8,8 +8,7 @@ A high-precision, open-hardware environmental monitor designed to track CO2, Tem
     *   **SCD43 (Sensirion):** Photoacoustic NDIR CO2 sensor for high-accuracy indoor air quality monitoring.
     *   **SHT45-AD1F (Sensirion):** Ultra-high precision (±1.0% RH, ±0.1°C) temperature and humidity sensor with integrated PTFE membrane for protection.
 *   **Display:** **Pervasive Displays E2266QS0F1** (2.66" E-Paper/E-Ink).
-*   **Power:** USB-C powered via a high-efficiency, low-noise LDO (**TLV75733**). Designed for continuous operation without batteries.
-
+*   **Power:** USB-C powered via a high-efficiency, low-noise LDO (**TLV75733**). 
 ## Engineering Design Decisions
 This project involved several specific hardware design challenges:
 

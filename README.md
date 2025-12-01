@@ -2,7 +2,8 @@
 
 A high-precision, open-hardware environmental monitor designed to track CO2, Temperature, and Humidity levels. The device is built around the RISC-V based ESP32-C6 and features a raw E-Paper panel with a custom-designed boost driver to ensure zero light pollution and minimal thermal self-heating.
 
-![3D Render of the PCB](pcb_3d.png)
+![Schematic](Room_Monitor_C6.svg)
+![3D Render of the PCB](Room_Monitor_C6.png)
 
 ## Key Features
 *   **MCU:** Espressif **ESP32-C6-Mini-1** (RISC-V, Wi-Fi 6, BLE 5, Zigbee).
@@ -26,7 +27,6 @@ A dedicated **thermal isolation slot** separates the board into two distinct the
 *   **Right Side (Hot Zone):** Contains the ESP32 MCU, Power Regulation, and Boost Converter.
 *   **Left Side (Cold Zone):** Contains the environmental sensors, connected only by narrow FR4 bridges to minimize thermal conductivity.
 
-![2D Layout showing thermal slot](pcb_2d.png)
 
 ## Status
 *   [x] Schematic Design & Verification

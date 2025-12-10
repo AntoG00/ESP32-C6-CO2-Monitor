@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SRN5040-4R7M
+D Bourns SRN5040 Series Shielded Wire-wound SMD Inductor with a Ferrite Core, 4.7 uH +/-20% 3.1A Idc
+K
+F http://www.bourns.com/docs/Product-Datasheets/SRN5040.pdf
+$ENDCMP
+#
+#End Doc Library

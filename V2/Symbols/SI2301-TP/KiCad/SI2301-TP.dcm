@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SI2301-TP
+D Small Signal MOSFETS
+K
+F https://mccsemi.com/pdf/Products/SI2301(SOT-23).pdf
+$ENDCMP
+#
+#End Doc Library

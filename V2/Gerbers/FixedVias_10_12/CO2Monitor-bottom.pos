@@ -1,0 +1,7 @@
+### Footprint positions - created on 2025-12-10T11:17:20+0100 ###
+### Printed by KiCad version 9.0.6
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val                  Package                                PosX       PosY       Rot  Side
+J1        FH34SRJ-24S-0.5SH50  CONN24x1_FH34SRJ-24S-0.5SH50_HIR    36.9405    30.9380  180.0000  bottom
+## End

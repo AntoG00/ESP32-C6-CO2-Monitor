@@ -5,7 +5,7 @@ This is the second hardware revision of the project. V2 replaces the SCD43 + SHT
 ## Main Components
 
 - **MCU:** Espressif **ESP32‑C6 Mini**
-  - Wi‑Fi 6 + BLE / 802.15.4 capable (depending on module variant)
+  - Wi‑Fi 6 + BLE / 802.15.4 capable (WiFi 6, Zigbee, Thread)
 - **Sensor:** Sensirion **SEN66**
   - PM1, PM2.5, PM4, PM10
   - Temperature, Relative Humidity
